@@ -1,6 +1,6 @@
 # Análisis de Satisfacción en la Industria Hotelera
 
-##Descripción del Proyecto:
+## Descripción del Proyecto:
 El análisis se divide en varias fases para ofrecer una comprensión completa de la satisfacción del cliente, los precios y otros aspectos clave en la industria hotelera:
 
 - Limpieza y transformación de datos:
@@ -24,7 +24,7 @@ Se crearon gráficos (líneas, barras, histogramas) para mostrar relaciones entr
 Usando herramientas como Matplotlib y Plotly, se hicieron visualizaciones interactivas para facilitar la interpretación.
 
 
-##Reproducción del Análisis:
+## Reproducción del Análisis:
 - Clonar este repositorio.
 - Instalar las librerías necesarias: tener Python y las siguientes librerías (Pandas, Numpy, Matplotlib, Seaborn)
 - Ejecutar el archivo `Analisis_Satisfaccion_Industria_Hotelera.ipynb` en Jupyter Notebook para reproducir el análisis completo.
